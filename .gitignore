@@ -4,5 +4,5 @@
 .settings
 target
 *.iml
-output
+out
 
